@@ -78,4 +78,4 @@ MatrixBenchmark/
 🎓 Key Learnings
 This project highlights the importance of Hardware-Aware Programming. By understanding cache hierarchy (L1/L2/L3) and CPU vectorization (SIMD), we can achieve massive performance gains without changing the underlying mathematical algorithm (O(N 
 3
- )).
+ )).![Benchmark Results](benchmark_plot.png)
